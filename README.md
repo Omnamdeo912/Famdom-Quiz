@@ -1,5 +1,7 @@
 # Famdom-Quiz
->This a simple CLI based quiz app.
+>mark 2
+
+* This is simple CLI based quiz app.
 ---
 ### Tech Used 
 - `JavaScript`
